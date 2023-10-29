@@ -222,4 +222,4 @@ Didapatkan hasil **R2** sebesar R2: 0.9401624183940697 dan **RMSE** sebesar 0.35
 
 ## Deployment
 
-Link Streamlit:
+Link Streamlit: https://app-estimasi-rating-co2-kendaraan-9rbvp3fvvp3tct35elfvly.streamlit.app/
