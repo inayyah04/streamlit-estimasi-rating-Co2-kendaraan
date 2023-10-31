@@ -49,7 +49,13 @@ Link Dataset: [Dataset CO2 Rating](https://www.kaggle.com/datasets/rinichristy/2
 - Fuel Consumption(Comb (mpg)) = konsumsi bahan bakar oleh kendaraan dalam kondisi kombinasi atau campuran dari perjalanan di kota dan di jalan raya. Satuan pengukuran yang digunakan adalah miles per gallon (mpg).
 - CO2 Emissions(g/km) = gas yang dikeluarkan dari hasil pembakaran senyawa yang mengandung karbon, seperti CO2, solar, LPJ, dan bahan bakar lainnya.
 - CO2 Rating = mengacu pada penilaian atau peringkat emisi karbon dioksida (CO2) yang dihasilkan oleh suatu kendaraan. Peringkat ini memberikan informasi tentang seberapa ramah lingkungan kendaraan dalam hal emisi CO2. Semakin rendah nilai CO2 rating, semakin baik kendaraan dalam mengurangi dampaknya terhadap perubahan iklim dan lingkungan
-- smog rating = mengacu pada penilaian atau peringkat kualitas asap yang dihasilkan oleh suatu kendaraan. Peringkat ini memberikan informasi tentang seberapa ramah lingkungan kendaraan dalam asap kendaraan. Semakin rendah nilai smog rating, semakin baik kendaraan dalam mengurangi dampaknya terhadap perubahan iklim dan lingkungan
+- smog rating = mengacu pada penilaian atau peringkat kualitas asap yang dihasilkan oleh suatu kendaraan. Peringkat ini memberikan informasi tentang seberapa ramah lingkungan kendaraan dalam asap kendaraan. Semakin rendah nilai smog rating, semakin baik kendaraan dalam mengurangi dampaknya terhadap perubahan iklim dan lingkungan.
+
+![image](EDA1.png)
+![image](EDA2.png)
+![image](EDA3.png)
+![image](EDA4.png)
+![image](EDA5.png)
 
 ## Data Preparation
 
