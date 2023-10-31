@@ -80,6 +80,7 @@ Lalu kita akan melihat informasi mengenai dataset dengan syntax seperti dibawah:
 ```bash
 df.info()
 ```
+![image](Tabel.png)
 
 Dengan hasil sebagai berikut:
 
